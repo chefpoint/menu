@@ -37,3 +37,13 @@
   font-size: 25px;
   color: var(--gray-dark);
 }
+
+@media only screen and (max-width: 900px) {
+  .pt {
+    font-size: 25px;
+  }
+
+  .en {
+    font-size: 20px;
+  }
+}
