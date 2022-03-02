@@ -1,34 +1,354 @@
 [
   {
-    "date": "2022-03-02",
-    "special_day": false,
+    "date": "2022-03-03",
+    "special_day": "Dia da Bulgária",
     "vegan": {
-      "pt": "Lasanha de Legumes",
-      "en": "Vegetable Lasagna"
+      "pt": "Fritters de Feijão c/ Salada de Couve",
+      "en": "Bean Fritters w/ Kale Salad"
     },
     "fish": {
-      "pt": "Pasteis de Bacalhau c/ Arroz de Feijão",
-      "en": "Cod Pies w/ Bean Rice"
+      "pt": "Sopa de Peixe",
+      "en": "Fish Soup"
     },
     "meat": {
-      "pt": "Lombo de Porco c/ Batata e Legumes Assados",
-      "en": "Pork Loin with Roasted Potatoes and Vegetables"
+      "pt": "Kavarma",
+      "en": "Bulgarian Pork and Vegetable Stew"
     }
   },
   {
-    "date": "2022-03-03",
+    "date": "2022-03-04",
     "special_day": false,
     "vegan": {
-      "pt": "Lasanha de Legumes",
-      "en": "Vegetable Lasagna"
+      "pt": "Hambúrguer Vegan c/ Batata Frita",
+      "en": "Vegan Burger w/ French Fries"
     },
     "fish": {
-      "pt": "Pasteis de Bacalhau c/ Arroz de Feijão",
-      "en": "Cod Pies w/ Bean Rice"
+      "pt": "Lasanha de Atum",
+      "en": "Tuna Lasagna"
     },
     "meat": {
-      "pt": "Lombo de Porco c/ Batata e Legumes Assados",
-      "en": "Pork Loin with Roasted Potatoes and Vegetables"
+      "pt": "Bife de Perú Grelhado c/ Batata Frita",
+      "en": "Grilled Turkey Steak w/ French Fries"
+    }
+  },
+  {
+    "date": "2022-03-07",
+    "special_day": false,
+    "vegan": {
+      "pt": "Spring Rolls de Legumes",
+      "en": "Vegetable Spring Rolls"
+    },
+    "fish": {
+      "pt": "Panado de Pescada c/ Arroz de Tomate",
+      "en": "Breaded Hake w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Coxa de Frango Assada c/ Batata Frita",
+      "en": "Roasted Chicken Thigh w/ French Fries"
+    }
+  },
+  {
+    "date": "2022-03-08",
+    "special_day": false,
+    "vegan": {
+      "pt": "Macarrão c/ Espinafres e Queijo",
+      "en": "Macaroni w/ Spinach and Cheese"
+    },
+    "fish": {
+      "pt": "Paloco c/ Natas",
+      "en": "Paloco w/ Cream"
+    },
+    "meat": {
+      "pt": "Tagliatelle alla Carbonara",
+      "en": "Spaghetti w/ Ham and Eggs"
+    }
+  },
+  {
+    "date": "2022-03-09",
+    "special_day": false,
+    "vegan": {
+      "pt": "Shoarma Vegan c/ Bulgur",
+      "en": "Vegan Shoarma w/ Bulgur"
+    },
+    "fish": {
+      "pt": "Rissóis de Camarão c/ Arroz de Ervilhas",
+      "en": "Shrimp Patties w/ Pea Rice"
+    },
+    "meat": {
+      "pt": "Empadão de Carne c/ Cenoura e Pimentos",
+      "en": "Meat Pie w/ Carrots and Peppers"
+    }
+  },
+  {
+    "date": "2022-03-10",
+    "special_day": false,
+    "vegan": {
+      "pt": "Hambúrguer de Vegetais e Arroz Tricolor",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Spaghetti Frutti di Mare",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Bife de Frango c/ Cogumelos",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-11",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batata Assada e Pistou",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Salada de Peixe c/ Feijão Verde, Tomate e Batata",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Carne de Porco à Portuguesa",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-14",
+    "special_day": false,
+    "vegan": {
+      "pt": "Fusilli Tricolor c/ Molho Napolitano",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Pota Frita c/ Salada de Batata e Maionese de Limão",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Bife de Perú c/ Puré de Batata",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-15",
+    "special_day": "Dia da Hungria",
+    "vegan": {
+      "pt": "Couscous c/ Legumes Picklad",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Tintureira c/ Molho de Tomate",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Gulash",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-16",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles c/ Legumes Assados e Leite de Coco",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Calamares à Romana c/ Maionese de Alho",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Panado de Porco c/ Batata Assada",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-17",
+    "special_day": false,
+    "vegan": {
+      "pt": "Arroz Frito c/ Mix de Cogumelos e Legumes",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Pataniscas c/ Arroz de Feijão",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Carne à Mexicana",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-18",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tortilla Mexicana",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Lombo de Pescada em Cama de Batata c/ Tomate e Cebola",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Massa Penne c/ Molho de Salsicha Rústica",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-21",
+    "special_day": false,
+    "vegan": {
+      "pt": "Caril de Vegetais c/ Arroz Branco",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Paloco à Gomes de Sá",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Porco Confitado c/ Puré de Batata e Cenoura",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-22",
+    "special_day": false,
+    "vegan": {
+      "pt": "Gyros c/ Arroz e Salada de Tomate",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Caprichos de Paloco c/ Batata Frita e Maionese",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Lasanha de Carne",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-23",
+    "special_day": false,
+    "vegan": {
+      "pt": "Couscous c/ Legumes Grelhados e Molho Sweet & Sour",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Pasteis de Bacalhau c/ Arroz de Ervilhas",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Perna de Frango Assada c/ Batata Frita",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-24",
+    "special_day": false,
+    "vegan": {
+      "pt": "Salada de Quinoa",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Fusilli c/ Molho Cremoso de Atum",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Empadão de Carne",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-25",
+    "special_day": "Dia da Grécia",
+    "vegan": {
+      "pt": "Spring Rolls c/ Molho Sweet & Sour",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Lasanha de Peixe e Espinafres",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Mousaka",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-28",
+    "special_day": false,
+    "vegan": {
+      "pt": "Quiche de Legumes",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Salada Verde de Peixe",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Frango Italiano c/ Tomate Seco",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-29",
+    "special_day": false,
+    "vegan": {
+      "pt": "Guisado de Grão c/ Arroz Branco",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Panado de Pescada c/ Batata Frita e Molho Aioli",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Porco Sweet & Sour",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-30",
+    "special_day": false,
+    "vegan": {
+      "pt": "Salada Grega c/ Tzatziki",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Empadão de Peixe c/ Espinafres",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Croquetes de Vitela e Puré de Batata",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-03-31",
+    "special_day": false,
+    "vegan": {
+      "pt": "Gratinado de Courgette",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Atum c/ Feijão Frade",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Stroganoff de Frango c/ Arroz Branco",
+      "en": ""
+    }
+  },
+  {
+    "date": "2022-04-01",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batata Assada e Pistou",
+      "en": ""
+    },
+    "fish": {
+      "pt": "Linguine c/ Molho de Delícias do Mar",
+      "en": ""
+    },
+    "meat": {
+      "pt": "Massa Arrabiata",
+      "en": ""
     }
   }
 ]
