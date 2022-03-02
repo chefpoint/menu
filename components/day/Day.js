@@ -14,7 +14,7 @@ export default function Day({ content }) {
   }
 
   function formatDate(date) {
-    return new Date(date).toLocaleDateString('pt-pt', { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric' });
+    return new Date(date).toLocaleDateString('pt-pt', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
   }
 
   return (
