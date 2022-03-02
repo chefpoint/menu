@@ -23,7 +23,7 @@ export default function Home() {
       <div className={styles.header}>
         <Image src={'/chefpoint-logo.svg'} width={250} height={50} alt={'Chef Point - Leading Food & Beverages Solutions'} />
         <div className={styles.toolbar}>
-          <IconButton label={'Contact Us'} href={'mailto:support@chefpoint.pt'} />
+          <IconButton icon={'envelopefill'} label={'Contact Us'} href={'mailto:support@chefpoint.pt'} />
         </div>
       </div>
       <div className={styles.list}>

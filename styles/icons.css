@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('/fonts/icomoon.eot?pt1mmd');
-  src: url('/fonts/icomoon.eot?pt1mmd#iefix') format('embedded-opentype'), url('/fonts/icomoon.ttf?pt1mmd') format('truetype'),
-    url('/fonts/icomoon.woff?pt1mmd') format('woff'), url('/fonts/icomoon.svg?pt1mmd#icomoon') format('svg');
+  src: url('/fonts/icomoon.eot?3ed26');
+  src: url('/fonts/icomoon.eot?3ed26#iefix') format('embedded-opentype'), url('/fonts/icomoon.ttf?3ed26') format('truetype'),
+    url('/fonts/icomoon.woff?3ed26') format('woff'), url('/fonts/icomoon.svg?3ed26#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 [class*=' icon-'] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  /* speak: never; */
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -39,63 +39,66 @@
 .icon-deleteleft:before {
   content: '\e904';
 }
-.icon-eurosigncirclefill:before {
+.icon-envelopefill:before {
   content: '\e905';
 }
-.icon-exclamationmarkoctagonfill:before {
+.icon-eurosigncirclefill:before {
   content: '\e906';
 }
-.icon-gearshapefill:before {
+.icon-exclamationmarkoctagonfill:before {
   content: '\e907';
 }
-.icon-housefill:before {
+.icon-gearshapefill:before {
   content: '\e908';
 }
-.icon-keyfill:before {
+.icon-housefill:before {
   content: '\e909';
 }
-.icon-listbulletrectanglefill:before {
+.icon-keyfill:before {
   content: '\e90a';
 }
-.icon-lockfill:before {
+.icon-listbulletrectanglefill:before {
   content: '\e90b';
 }
-.icon-lockopenfill:before {
+.icon-lockfill:before {
   content: '\e90c';
 }
-.icon-magnifyingglass:before {
+.icon-lockopenfill:before {
   content: '\e90d';
 }
-.icon-person2fill:before {
+.icon-magnifyingglass:before {
   content: '\e90e';
 }
-.icon-personbadgeplus:before {
+.icon-person2fill:before {
   content: '\e90f';
 }
-.icon-personfillcheckmark:before {
+.icon-personbadgeplus:before {
   content: '\e910';
 }
-.icon-personfillquestionmark:before {
+.icon-personfillcheckmark:before {
   content: '\e911';
 }
-.icon-plus:before {
+.icon-personfillquestionmark:before {
   content: '\e912';
 }
-.icon-printerfill:before {
+.icon-plus:before {
   content: '\e913';
 }
-.icon-rectangleandtextmagnifyingglass:before {
+.icon-printerfill:before {
   content: '\e914';
 }
-.icon-rectanglegrid2x2fill:before {
+.icon-rectangleandtextmagnifyingglass:before {
   content: '\e915';
 }
-.icon-tagfill:before {
+.icon-rectanglegrid2x2fill:before {
   content: '\e916';
 }
-.icon-trashfill:before {
+.icon-tagfill:before {
   content: '\e917';
 }
-.icon-xmark:before {
+.icon-trashfill:before {
   content: '\e918';
+}
+.icon-xmark:before {
+  content: '\e919';
 }
