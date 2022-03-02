@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2022-03-02",
+    "special_day": false,
+    "vegan": {
+      "pt": "Lasanha de Legumes",
+      "en": "Vegetable Lasagna"
+    },
+    "fish": {
+      "pt": "Pasteis de Bacalhau c/ Arroz de Feijão",
+      "en": "Cod Pies w/ Bean Rice"
+    },
+    "meat": {
+      "pt": "Lombo de Porco c/ Batata e Legumes Assados",
+      "en": "Pork Loin with Roasted Potatoes and Vegetables"
+    }
+  },
+  {
+    "date": "2022-03-03",
+    "special_day": false,
+    "vegan": {
+      "pt": "Lasanha de Legumes",
+      "en": "Vegetable Lasagna"
+    },
+    "fish": {
+      "pt": "Pasteis de Bacalhau c/ Arroz de Feijão",
+      "en": "Cod Pies w/ Bean Rice"
+    },
+    "meat": {
+      "pt": "Lombo de Porco c/ Batata e Legumes Assados",
+      "en": "Pork Loin with Roasted Potatoes and Vegetables"
+    }
+  }
+]

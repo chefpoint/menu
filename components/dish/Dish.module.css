@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.type {
+  font-size: 14px;
+  font-weight: var(--font-medium);
+  text-transform: uppercase;
+  color: var(--gray-strong);
+}
+
+.type.vegan {
+  color: #41b447;
+}
+
+.type.fish {
+  color: #0096ff;
+}
+
+.type.meat {
+  color: #a04b00;
+}
+
+.pt,
+.en {
+  font-weight: var(--font-medium);
+}
+
+.pt {
+  font-size: 30px;
+  color: var(--black);
+}
+
+.en {
+  font-size: 25px;
+  color: var(--gray-dark);
+}

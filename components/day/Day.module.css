@@ -1,0 +1,38 @@
+.container {
+  background-color: var(--white);
+  border: 2px solid var(--black);
+  border-radius: var(--radius-medium);
+  box-shadow: var(--effect-shadow-huge);
+}
+
+.date,
+.dishes {
+  padding: 20px;
+}
+
+.date {
+  border-bottom: 2px solid var(--black);
+}
+
+.date h1 {
+  font-size: 25px;
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+}
+
+.today {
+  color: var(--theme-fill);
+}
+
+.dishes {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  padding-bottom: 30px;
+}
+
+@media only screen and (max-width: 900px) {
+  .dishes {
+    grid-template-columns: 1fr;
+  }
+}
