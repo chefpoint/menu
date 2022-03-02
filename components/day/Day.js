@@ -13,8 +13,12 @@ export default function Day({ content }) {
     return today.getTime() === itemDate.getTime();
   }
 
-  function formatDate(date) {
-    return new Date(date).toLocaleDateString('pt-pt', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  function formatWeekday(date) {
+    return new Date(date).toLocaleDateString('pt-pt', { weekday: 'long' });
+  }
+
+  function formatMonthday(date) {
+    return new Date(date).toLocaleDateString('pt-pt', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
   return (
@@ -26,7 +30,8 @@ export default function Day({ content }) {
       })}
     >
       <div className={styles.date}>
-        <h1>{formatDate(content.date)}</h1>
+        <p className={styles.weekday}>{formatWeekday(content.date)}</p>
+        <h1 className={styles.monthday}>{formatMonthday(content.date)}</h1>
       </div>
       <div className={styles.dishes}>
         <Dish type={'vegan'} name={content.vegan} />

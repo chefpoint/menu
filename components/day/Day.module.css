@@ -11,10 +11,19 @@
 }
 
 .date {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
   border-bottom: 2px solid var(--black);
 }
 
-.date h1 {
+.date .weekday {
+  font-size: 15px;
+  font-weight: var(--font-medium);
+  text-transform: uppercase;
+}
+
+.date .monthday {
   font-size: 25px;
   font-weight: var(--font-bold);
   text-transform: uppercase;
