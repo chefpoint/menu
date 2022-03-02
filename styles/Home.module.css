@@ -10,3 +10,9 @@
   flex-direction: column;
   gap: 30px;
 }
+
+@media only screen and (max-width: 900px) {
+  .container {
+    padding: 20px;
+  }
+}
