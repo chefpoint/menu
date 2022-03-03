@@ -1,4 +1,4 @@
-[![CodeQL](https://github.com/joao-vasconcelos/lunch-menu/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/joao-vasconcelos/lunch-menu/actions/workflows/codeql-analysis.yml)
+[![GitHub version](https://badge.fury.io/gh/joao-vasconcelos%2Flunch-menu.svg)](https://badge.fury.io/gh/joao-vasconcelos%2Flunch-menu) [![CodeQL](https://github.com/joao-vasconcelos/lunch-menu/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/joao-vasconcelos/lunch-menu/actions/workflows/codeql-analysis.yml)
 
 ## CHEF POINT Lunch Menu
 
