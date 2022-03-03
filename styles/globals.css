@@ -32,9 +32,7 @@
   --shadow-huge: 0 0 40px 0 rgba(0, 0, 0, 0.05);
 
   /* Border Radius */
-  --radius-small: 3px;
-  --radius-medium: 5px;
-  --radius-large: 15px;
+  --radius-medium: 7px;
 
   /* Font Weights */
   --font-regular: 500;

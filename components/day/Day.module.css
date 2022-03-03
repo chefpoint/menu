@@ -5,16 +5,32 @@
   box-shadow: var(--effect-shadow-huge);
 }
 
-.date,
+/* .container.special {
+  border-color: var(--theme-border);
+} */
+
+.header,
 .dishes {
   padding: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--black);
+}
+
+.header * {
+  line-height: 1;
 }
 
 .date {
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  border-bottom: 2px solid var(--black);
+  gap: 7px;
 }
 
 .date .weekday {
@@ -29,8 +45,30 @@
   text-transform: uppercase;
 }
 
-.today {
+.today .weekday,
+.today .monthday {
   color: var(--theme-fill);
+}
+
+.specialDayIcon {
+  font-size: 60px;
+  padding-right: 10px;
+}
+
+.specialDayLabel {
+  margin-top: 3px;
+  display: flex;
+}
+
+.specialDayLabel div {
+  font-size: 15px;
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+  background-color: var(--theme-fill);
+  border: 2px solid var(--theme-border);
+  color: var(--white);
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
 .dishes {

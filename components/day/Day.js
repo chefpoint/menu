@@ -26,12 +26,20 @@ export default function Day({ content }) {
       className={cn({
         [styles.container]: true,
         [styles.today]: isToday(),
-        [styles.special]: true,
+        [styles.special]: content.special_day,
       })}
     >
-      <div className={styles.date}>
-        <p className={styles.weekday}>{formatWeekday(content.date)}</p>
-        <h1 className={styles.monthday}>{formatMonthday(content.date)}</h1>
+      <div className={styles.header}>
+        <div className={styles.date}>
+          <p className={styles.weekday}>{formatWeekday(content.date)}</p>
+          <h1 className={styles.monthday}>{formatMonthday(content.date)}</h1>
+          {content.special_day ? (
+            <div className={styles.specialDayLabel}>
+              <div>{content.special_day.label}</div>
+            </div>
+          ) : null}
+        </div>
+        {content.special_day ? <div className={styles.specialDayIcon}>{content.special_day.icon}</div> : null}
       </div>
       <div className={styles.dishes}>
         <Dish type={'vegan'} name={content.vegan} />

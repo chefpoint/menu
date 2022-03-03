@@ -23,19 +23,16 @@
   color: #a04b00;
 }
 
-.pt,
-.en {
-  font-weight: var(--font-medium);
-}
-
 .pt {
   font-size: 30px;
   color: var(--black);
+  font-weight: var(--font-medium);
 }
 
 .en {
   font-size: 25px;
   color: var(--gray-dark);
+  font-weight: var(--font-regular);
 }
 
 @media only screen and (max-width: 900px) {
