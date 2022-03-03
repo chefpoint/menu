@@ -78,8 +78,38 @@
   padding-bottom: 30px;
 }
 
-@media only screen and (max-width: 900px) {
+/* MOBILE STYLES */
+@media only screen and (max-width: 900px /* var(--mobile) */) {
   .dishes {
     grid-template-columns: 1fr;
+  }
+}
+
+/* TV STYLES */
+@media only screen and (min-width: 3000px /* var(--tv) */) {
+  .header,
+  .dishes {
+    padding: 30px;
+  }
+  .date {
+    gap: 12px;
+  }
+  .date .weekday {
+    font-size: 35px;
+  }
+  .date .monthday {
+    font-size: 65px;
+  }
+  .specialDayIcon {
+    font-size: 150px;
+    padding-right: 50px;
+  }
+  .specialDayLabel div {
+    font-size: 30px;
+    padding: 10px 20px;
+  }
+  .dishes {
+    gap: 100px;
+    padding-bottom: 40px;
   }
 }

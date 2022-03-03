@@ -35,12 +35,28 @@
   font-weight: var(--font-regular);
 }
 
-@media only screen and (max-width: 900px) {
+/* MOBILE STYLES */
+@media only screen and (max-width: 900px /* var(--mobile) */) {
   .pt {
     font-size: 25px;
   }
-
   .en {
     font-size: 20px;
+  }
+}
+
+/* TV STYLES */
+@media only screen and (min-width: 3000px /* var(--tv) */) {
+  .container {
+    gap: 15px;
+  }
+  .type {
+    font-size: 30px;
+  }
+  .pt {
+    font-size: 70px;
+  }
+  .en {
+    font-size: 60px;
   }
 }

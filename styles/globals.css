@@ -44,6 +44,10 @@
 
   /* Transition */
   --transition: all 200ms ease-in-out;
+
+  /* MEDIA QUERIES */
+  --mobile: 900px; /* If lower than this apply mobile styles */
+  --tv: 3000px; /* If higher than this apply TV styles */
 }
 
 html,
