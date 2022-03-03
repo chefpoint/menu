@@ -3,17 +3,10 @@ import Icon from '../icon/Icon';
 import styles from './IconButton.module.css';
 import Link from 'next/link';
 
-export default function IconButton({ status = 'default', icon = 'plus', label = 'Button', href, action }) {
+export default function IconButton({ icon = 'plus', label = 'Button', href, action }) {
   return href ? (
     <Link href={href}>
-      <a
-        className={cn({
-          [styles.button]: true,
-          [styles.default]: status == 'default',
-          [styles.enabled]: status == 'enabled',
-          [styles.disabled]: status == 'disabled',
-        })}
-      >
+      <a className={styles.button}>
         <Icon name={icon} />
         <div className={styles.label}>{label}</div>
       </a>

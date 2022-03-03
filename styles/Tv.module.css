@@ -16,13 +16,13 @@
 .message {
   font-size: 30px;
   font-weight: var(--font-regular);
-  color: var(--gray-strong);
+  color: var(--gray-6);
 }
 
 .message span {
   font-size: 30px;
   font-weight: var(--font-medium);
-  color: var(--gray-dark);
+  color: var(--gray-7);
 }
 
 .list {

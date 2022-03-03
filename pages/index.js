@@ -21,7 +21,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Image src={'/chefpoint-logo.svg'} width={250} height={50} alt={'Chef Point - Leading Food & Beverages Solutions'} />
+        <theme-light>
+          <Image src={'/brand/chefpoint-logo-light.svg'} width={250} height={50} alt={'Chef Point - Leading Food & Beverages Solutions'} />
+        </theme-light>
+        <theme-dark>
+          <Image src={'/brand/chefpoint-logo-dark.svg'} width={250} height={50} alt={'Chef Point - Leading Food & Beverages Solutions'} />
+        </theme-dark>
         <div className={styles.toolbar}>
           <IconButton icon={'envelopefill'} label={'Contact Us'} href={'mailto:support@chefpoint.pt'} />
         </div>

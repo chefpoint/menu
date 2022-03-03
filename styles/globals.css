@@ -1,61 +1,9 @@
-:root {
-  /* Theme Colors */
-  /* --theme-fill: #6400c8;
-  --theme-border: #3c0096; */
-  /* --theme-fill: #0fd200;
-  --theme-border: #0faf00; */
-  /* --theme-fill: #ff9600;
-  --theme-border: #ff7800; */
-  --theme-fill: #005adc;
-  --theme-border: #0041a0;
-
-  /* Grays */
-  --white: #ffffff;
-  --gray-superlight: #fbfcfc;
-  --gray-light: #f5f5f5;
-  --gray-medium: #e6e6e6;
-  --gray-strong: #787878;
-  --gray-dark: #5a5a5a;
-  --black: #000000;
-
-  /* Status Indicators */
-  --status-ok-fill: #00c864;
-  --status-ok-border: #2b352f;
-  --status-warning-fill: #ffa000;
-  --status-warning-border: #8c4600;
-  --status-danger-fill: rgb(230, 50, 0);
-  --status-danger-border: rgb(180, 0, 0);
-
-  /* Effects */
-  --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  --shadow-pronounced: 0 0 5px 0 rgba(0, 0, 0, 0.1);
-  --shadow-huge: 0 0 40px 0 rgba(0, 0, 0, 0.05);
-
-  /* Border Radius */
-  --radius-medium: 7px;
-
-  /* Font Weights */
-  --font-regular: 500;
-  --font-medium: 600;
-  --font-bold: 700;
-
-  /* Ratios */
-  --aspect-square: 9/8; /* Visual Square */
-
-  /* Transition */
-  --transition: all 200ms ease-in-out;
-
-  /* MEDIA QUERIES */
-  --mobile: 900px; /* If lower than this apply mobile styles */
-  --tv: 3000px; /* If higher than this apply TV styles */
-}
-
 html,
 body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: var(--gray-light);
+  background-color: var(--gray-1);
 }
 
 a {

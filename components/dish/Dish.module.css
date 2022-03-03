@@ -8,30 +8,30 @@
   font-size: 14px;
   font-weight: var(--font-medium);
   text-transform: uppercase;
-  color: var(--gray-strong);
+  color: var(--gray-5);
 }
 
 .type.vegan {
-  color: #41b447;
+  color: var(--dish-vegan);
 }
 
 .type.fish {
-  color: #0096ff;
+  color: var(--dish-fish);
 }
 
 .type.meat {
-  color: #a04b00;
+  color: var(--dish-meat);
 }
 
 .pt {
   font-size: 30px;
-  color: var(--black);
+  color: var(--gray-7);
   font-weight: var(--font-medium);
 }
 
 .en {
   font-size: 25px;
-  color: var(--gray-dark);
+  color: var(--gray-6);
   font-weight: var(--font-regular);
 }
 
