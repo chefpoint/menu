@@ -1,7 +1,7 @@
 import cn from 'classnames';
+import Link from 'next/link';
 import Icon from '../icon/Icon';
 import styles from './IconButton.module.css';
-import Link from 'next/link';
 
 export default function IconButton({ icon = 'plus', label = 'Button', href, action }) {
   return href ? (

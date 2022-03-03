@@ -1,9 +1,8 @@
-import styles from '../styles/Home.module.css';
-
-import menu from '../data/menu.json';
-import Day from '../components/day/Day';
 import Image from 'next/image';
+import Day from '../components/day/Day';
 import IconButton from '../components/iconButton/IconButton';
+import menu from '../data/menu.json';
+import styles from '../styles/Home.module.css';
 
 export default function Home() {
   //

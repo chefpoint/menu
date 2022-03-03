@@ -19,15 +19,13 @@
   font-size: 30px;
 }
 
-.button,
-.button .icon {
+.button {
   background-color: var(--gray-1);
   border-color: var(--gray-5);
   color: var(--gray-5);
 }
 
-.button:hover,
-.button:hover .icon {
+.button:hover {
   background-color: var(--gray-1);
   border-color: var(--gray-7);
   color: var(--gray-7);

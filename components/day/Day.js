@@ -1,6 +1,6 @@
 import cn from 'classnames';
-import styles from './Day.module.css';
 import Dish from '../dish/Dish';
+import styles from './Day.module.css';
 
 export default function Day({ content }) {
   //
