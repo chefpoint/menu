@@ -28,7 +28,6 @@ export default function Home() {
         <p className={styles.message}>
           Full month available at <span>lunch.chefpoint.pt</span>
         </p>
-        <p className={styles.message}>{window.innerWidth}</p>
       </div>
       <div className={styles.list}>
         {filterMenu.map((item, index) => (
