@@ -17,7 +17,7 @@
   },
   {
     "date": "2022-03-04",
-    "special_day": false,
+    "special_day": { "icon": "🇧🇬", "label": "Dia da Bulgária" },
     "vegan": {
       "pt": "Hambúrguer Vegan c/ Batata Frita",
       "en": "Vegan Burger w/ French Fries"
