@@ -46,17 +46,17 @@
 }
 
 /* TV STYLES */
-@media only screen and (min-width: 2000px /* var(--tv) */) {
+@media only screen and (min-width: 1000px /* var(--tv) */) {
   .container {
     gap: 15px;
   }
   .type {
-    font-size: 30px;
+    font-size: 60px;
   }
   .pt {
-    font-size: 70px;
+    font-size: 120px;
   }
   .en {
-    font-size: 60px;
+    font-size: 100px;
   }
 }
