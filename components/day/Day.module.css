@@ -103,15 +103,14 @@
     font-size: 55px;
   }
   .specialDayIcon {
-    font-size: 150px;
-    padding-right: 50px;
+    display: none;
   }
   .specialDayLabel div {
     font-size: 40px;
     padding: 10px 20px;
   }
   .dishes {
-    gap: 80px;
+    gap: 50px;
     padding-bottom: 40px;
   }
 }
