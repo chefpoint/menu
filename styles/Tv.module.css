@@ -30,13 +30,3 @@
   flex-direction: column;
   gap: 60px;
 }
-
-@media only screen and (max-width: 900px) {
-  .container {
-    padding: 20px;
-  }
-  .header {
-    margin-top: 20px;
-    flex-direction: column;
-  }
-}
