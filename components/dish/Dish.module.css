@@ -46,7 +46,7 @@
 }
 
 /* TV STYLES */
-@media only screen and (min-width: 3000px /* var(--tv) */) {
+@media only screen and (min-width: 2000px /* var(--tv) */) {
   .container {
     gap: 15px;
   }
