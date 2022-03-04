@@ -88,7 +88,7 @@
 }
 
 /* TV STYLES */
-@media only screen and (min-width: 2500px /* var(--tv) */) {
+@media only screen and (min-width: 2000px /* var(--tv) */) {
   .header,
   .dishes {
     padding: 30px;
