@@ -14,13 +14,12 @@
 }
 
 .message {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: var(--font-regular);
   color: var(--gray-6);
 }
 
 .message span {
-  font-size: 50px;
   font-weight: var(--font-medium);
   color: var(--gray-7);
 }
