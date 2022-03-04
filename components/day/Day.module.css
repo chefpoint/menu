@@ -88,7 +88,7 @@
 }
 
 /* TV STYLES */
-@media only screen and (min-width: 1000px /* var(--tv) */) {
+@media only screen and (min-width: 1920px /* var(--tv) */) {
   .header,
   .dishes {
     padding: 30px;
@@ -97,21 +97,21 @@
     gap: 12px;
   }
   .date .weekday {
-    font-size: 50px;
+    font-size: 40px;
   }
   .date .monthday {
-    font-size: 70px;
+    font-size: 55px;
   }
   .specialDayIcon {
     font-size: 150px;
     padding-right: 50px;
   }
   .specialDayLabel div {
-    font-size: 30px;
+    font-size: 40px;
     padding: 10px 20px;
   }
   .dishes {
-    gap: 100px;
+    gap: 80px;
     padding-bottom: 40px;
   }
 }
