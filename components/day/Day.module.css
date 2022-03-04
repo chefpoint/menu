@@ -97,10 +97,10 @@
     gap: 12px;
   }
   .date .weekday {
-    font-size: 120px;
+    font-size: 50px;
   }
   .date .monthday {
-    font-size: 65px;
+    font-size: 70px;
   }
   .specialDayIcon {
     font-size: 150px;
