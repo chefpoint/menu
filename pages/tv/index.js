@@ -21,7 +21,7 @@ export default function Home() {
       <div className={styles.header}>
         <Image src={'/brand/chefpoint-logo-light.svg'} width={500} height={120} alt={'Chef Point - Leading Food & Beverages Solutions'} />
         <p className={styles.message}>
-          Full month available at <span>lunch.chefpoint.pt</span>
+          Full month available at <span>menu.chefpoint.pt</span>
         </p>
       </div>
       <div className={styles.list}>
