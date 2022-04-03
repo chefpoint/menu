@@ -1,110 +1,110 @@
 [
   {
-    "date": "2022-03-03",
-    "special_day": { "icon": "🇧🇬", "label": "Dia da Bulgária" },
+    "date": "2022-04-04",
+    "special_day": false,
     "vegan": {
-      "pt": "Fritters de Feijão c/ Salada de Couve",
-      "en": "Bean Fritters w/ Kale Salad"
+      "pt": "Hambúrguer de Vegetais",
+      "en": "Veggie Burger"
     },
     "fish": {
-      "pt": "Sopa de Peixe",
-      "en": "Fish Soup"
+      "pt": "Caril de Pota c/ Arroz Branco",
+      "en": "Pota Curry w/ White Rice"
     },
     "meat": {
-      "pt": "Kavarma",
-      "en": "Bulgarian Pork and Vegetable Stew"
+      "pt": "Bife de Carne Picada c/ Cebola Caramelizada e Puré de Batata",
+      "en": "Minced Beef Steak w/ Caramelized Onion and Mashed Potato"
     }
   },
   {
-    "date": "2022-03-04",
+    "date": "2022-04-05",
     "special_day": false,
     "vegan": {
-      "pt": "Hambúrguer Vegan c/ Batata Frita",
-      "en": "Vegan Burger w/ French Fries"
+      "pt": "Massa Fusilli c/ Molho de Cogumelos",
+      "en": "Fusilli Pasta w/ Mushroom Sauce"
     },
     "fish": {
-      "pt": "Lasanha de Atum",
-      "en": "Tuna Lasagna"
+      "pt": "Paloco à Gomes de Sá",
+      "en": "Cod 'Gomes de Sá' Style"
     },
     "meat": {
-      "pt": "Bife de Perú Grelhado c/ Batata Frita",
-      "en": "Grilled Turkey Steak w/ French Fries"
+      "pt": "Peito de Frango c/ Molho de Ervas Aromáticas",
+      "en": "Chicken Breast w/ Aromatic Herb Sauce"
     }
   },
   {
-    "date": "2022-03-07",
+    "date": "2022-04-06",
     "special_day": false,
     "vegan": {
-      "pt": "Spring Rolls de Legumes",
-      "en": "Vegetable Spring Rolls"
+      "pt": "Noodles c/ Legumes Assados, Leite de Côco e Lima",
+      "en": "Noodles w/ Roasted Vegetables, Coconut Milk and Lime"
+    },
+    "fish": {
+      "pt": "Arroz de Tamboril",
+      "en": "Monkfish Rice"
+    },
+    "meat": {
+      "pt": "Panado de Porco c/ Batatas Fritas e Aioli",
+      "en": "Breaded Pork w/ French Fries and Aioli"
+    }
+  },
+  {
+    "date": "2022-04-07",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Tricolor c/ Molho Napolitano",
+      "en": "Tricolor Pasta w/ Neapolitan Sauce"
+    },
+    "fish": {
+      "pt": "Pasteis de Bacalhau c/ Arroz de Ervilhas",
+      "en": "Cod Pies w/ Pea Rice"
+    },
+    "meat": {
+      "pt": "Esparguete à Bolonhesa",
+      "en": "Spaghetti Bolognese"
+    }
+  },
+  {
+    "date": "2022-04-08",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tortilla Mexicana",
+      "en": "Mexican Tortilla"
+    },
+    "fish": {
+      "pt": "Calamares à Romana c/ Maionese de Coentros",
+      "en": "Roman-style Calamares w/ Coriander Mayonnaise"
+    },
+    "meat": {
+      "pt": "Lombo de Perú no Forno c/ Batata",
+      "en": "Roasted Turkey Loin w/ Potato"
+    }
+  },
+  {
+    "date": "2022-04-11",
+    "special_day": false,
+    "vegan": {
+      "pt": "Caril de Vegetais c/ Arroz Branco",
+      "en": "Vegetable Curry w/ White Rice"
     },
     "fish": {
       "pt": "Panado de Pescada c/ Arroz de Tomate",
       "en": "Breaded Hake w/ Tomato Rice"
     },
     "meat": {
-      "pt": "Coxa de Frango Assada c/ Batata Frita",
-      "en": "Roasted Chicken Thigh w/ French Fries"
+      "pt": "Bife de Frango Grelhado",
+      "en": "Grilled Chicken Steak"
     }
   },
   {
-    "date": "2022-03-08",
+    "date": "2022-04-12",
     "special_day": false,
     "vegan": {
-      "pt": "Macarrão c/ Espinafres e Queijo",
-      "en": "Macaroni w/ Spinach and Cheese"
+      "pt": "Macarrão e Queijo",
+      "en": "Macaroni and Cheese"
     },
     "fish": {
-      "pt": "Paloco c/ Natas",
-      "en": "Paloco w/ Cream"
-    },
-    "meat": {
-      "pt": "Tagliatelle alla Carbonara",
-      "en": "Spaghetti w/ Ham and Eggs"
-    }
-  },
-  {
-    "date": "2022-03-09",
-    "special_day": false,
-    "vegan": {
-      "pt": "Shoarma Vegan c/ Bulgur",
-      "en": "Vegan Shoarma w/ Bulgur"
-    },
-    "fish": {
-      "pt": "Rissóis de Camarão c/ Arroz de Ervilhas",
-      "en": "Shrimp Patties w/ Pea Rice"
-    },
-    "meat": {
-      "pt": "Empadão de Carne c/ Cenoura e Pimentos",
-      "en": "Meat Pie w/ Carrots and Peppers"
-    }
-  },
-  {
-    "date": "2022-03-10",
-    "special_day": false,
-    "vegan": {
-      "pt": "Hambúrguer de Vegetais e Arroz Tricolor",
-      "en": "Vegetable Burger w/ Multicolored Rice"
-    },
-    "fish": {
-      "pt": "Spaghetti Frutti di Mare",
-      "en": "Seafood Spaghetti"
-    },
-    "meat": {
-      "pt": "Bife de Frango c/ Cogumelos",
-      "en": "Chicken Steak w/ Mushrooms"
-    }
-  },
-  {
-    "date": "2022-03-11",
-    "special_day": false,
-    "vegan": {
-      "pt": "Ratatouille c/ Batata Assada e Pistou",
-      "en": "Ratatouille with/ Baked Potatoes and Pistou Sauce"
-    },
-    "fish": {
-      "pt": "Salada de Peixe c/ Feijão Verde, Tomate e Batata",
-      "en": "Fish Salad with Green Beans, Tomatoes and Potatoes"
+      "pt": "Lasanha de Atum e Espinafres",
+      "en": "Tuna and Spinach Lasagna"
     },
     "meat": {
       "pt": "Carne de Porco à Portuguesa",
@@ -112,243 +112,51 @@
     }
   },
   {
-    "date": "2022-03-14",
+    "date": "2022-04-13",
     "special_day": false,
     "vegan": {
-      "pt": "Fusilli Tricolor c/ Molho Napolitano",
-      "en": "Tricolor Fusilli w/ Neapolitan Sauce"
+      "pt": "Noodles c/ Legumes Grelhados e Molho Sweet & Sour",
+      "en": "Noodles w/ Grilled Vegetables and Sweet & Sour Sauce"
     },
     "fish": {
-      "pt": "Pota Frita c/ Salada de Batata e Maionese de Limão",
-      "en": "Fried Octopus w/ Potato Salad and Lemon Mayonnaise"
-    },
-    "meat": {
-      "pt": "Bife de Perú c/ Puré de Batata",
-      "en": "Turkey Steak w/ Mashed Potatoes"
-    }
-  },
-  {
-    "date": "2022-03-15",
-    "special_day": { "icon": "🇭🇺", "label": "Dia da Hungria" },
-    "vegan": {
-      "pt": "Couscous c/ Legumes Picklad",
-      "en": "Couscous w/ Pickled Vegetables"
-    },
-    "fish": {
-      "pt": "Tintureira c/ Molho de Tomate",
-      "en": "Blue Shark w/ Tomato Sauce"
-    },
-    "meat": {
-      "pt": "Gulash",
-      "en": "Goulash"
-    }
-  },
-  {
-    "date": "2022-03-16",
-    "special_day": false,
-    "vegan": {
-      "pt": "Noodles c/ Legumes Assados e Leite de Coco",
-      "en": "Noodles w/ Roasted Vegetables and Coconut Milk"
-    },
-    "fish": {
-      "pt": "Calamares à Romana c/ Maionese de Alho",
-      "en": "Roman-style Calamares w/ Garlic Mayonnaise"
-    },
-    "meat": {
-      "pt": "Panado de Porco c/ Batata Assada",
-      "en": "Breaded Pork w/ Roasted Potatoes"
-    }
-  },
-  {
-    "date": "2022-03-17",
-    "special_day": false,
-    "vegan": {
-      "pt": "Arroz Frito c/ Mix de Cogumelos e Legumes",
-      "en": "Fried Rice w/ Mix of Mushrooms and Vegetables"
-    },
-    "fish": {
-      "pt": "Pataniscas c/ Arroz de Feijão",
-      "en": "Pataniscas w/ Bean Rice"
-    },
-    "meat": {
-      "pt": "Carne à Mexicana",
-      "en": "Mexican-style Meat"
-    }
-  },
-  {
-    "date": "2022-03-18",
-    "special_day": false,
-    "vegan": {
-      "pt": "Tortilla Mexicana",
-      "en": "Mexican Tortilla"
-    },
-    "fish": {
-      "pt": "Pescada em Cama de Batata c/ Tomate e Cebola",
-      "en": "Hake in Potato Bed with Tomato and Onion"
-    },
-    "meat": {
-      "pt": "Massa Penne c/ Molho de Salsicha Rústica",
-      "en": "Penne Pasta with Rustic Sausage Sauce"
-    }
-  },
-  {
-    "date": "2022-03-21",
-    "special_day": false,
-    "vegan": {
-      "pt": "Caril de Vegetais c/ Arroz Branco",
-      "en": "Vegetable Curry w/ White Rice"
-    },
-    "fish": {
-      "pt": "Paloco à Gomes de Sá",
-      "en": "Traditional Cod Casserole"
-    },
-    "meat": {
-      "pt": "Porco Confitado c/ Puré de Batata e Cenoura",
-      "en": "Confit Pork w/ Mashed Potatoes and Carrots"
-    }
-  },
-  {
-    "date": "2022-03-22",
-    "special_day": false,
-    "vegan": {
-      "pt": "Gyros c/ Arroz e Salada de Tomate",
-      "en": "Gyros w/ Rice and Tomato Salad"
-    },
-    "fish": {
-      "pt": "Caprichos de Paloco c/ Batata Frita e Maionese",
-      "en": "Cod Whims w/ Fries and Mayonnaise"
-    },
-    "meat": {
-      "pt": "Lasanha de Carne",
-      "en": "Meat Lasagna"
-    }
-  },
-  {
-    "date": "2022-03-23",
-    "special_day": false,
-    "vegan": {
-      "pt": "Couscous c/ Legumes Grelhados e Molho Sweet & Sour",
-      "en": "Couscous w/ Grilled Vegetables and Sweet & Sour Sauce"
-    },
-    "fish": {
-      "pt": "Pasteis de Bacalhau c/ Arroz de Ervilhas",
-      "en": "Cod Pies w/ Pea Rice"
-    },
-    "meat": {
-      "pt": "Perna de Frango Assada c/ Batata Frita",
-      "en": "Roasted Chicken Leg w/ French Fries"
-    }
-  },
-  {
-    "date": "2022-03-24",
-    "special_day": false,
-    "vegan": {
-      "pt": "Salada de Quinoa",
-      "en": "Quinoa Salad"
-    },
-    "fish": {
-      "pt": "Fusilli c/ Molho Cremoso de Atum",
-      "en": "Fusilli with/ Creamy Tuna Sauce"
+      "pt": "Rissóis de Camarão c/ Arroz Árabe",
+      "en": "Shrimp Patties w/ Arabic Rice"
     },
     "meat": {
       "pt": "Empadão de Carne",
-      "en": "Meat and Potato Pie"
+      "en": "Meat Pie"
     }
   },
   {
-    "date": "2022-03-25",
-    "special_day": { "icon": "🇬🇷", "label": "Dia da Grécia" },
-    "vegan": {
-      "pt": "Spring Rolls c/ Molho Sweet & Sour",
-      "en": "Spring Rolls w/ Sweet & Sour Sauce"
-    },
-    "fish": {
-      "pt": "Lasanha de Peixe e Espinafres",
-      "en": "Fish and Spinach Lasagna"
-    },
-    "meat": {
-      "pt": "Mousaka",
-      "en": "Minced Meat Delicacy"
-    }
-  },
-  {
-    "date": "2022-03-28",
+    "date": "2022-04-14",
     "special_day": false,
     "vegan": {
-      "pt": "Quiche de Legumes",
-      "en": "Vegetables Quiche"
+      "pt": "Massa Penne c/ Espinafres",
+      "en": "Penne Pasta w/ Spinach"
     },
     "fish": {
-      "pt": "Salada Verde de Peixe",
-      "en": "Greens & Fish Salad"
+      "pt": "Filetes de Pescada c/ Molho de Manteiga e Amêndoas Laminadas",
+      "en": "Hake Fillets w/ Butter Sauce and Laminated Almonds"
     },
     "meat": {
-      "pt": "Frango Italiano c/ Tomate Seco",
-      "en": "Italian Chicken w/ Sun-dried Tomato"
+      "pt": "Arroz de Frango",
+      "en": "Chicken Rice"
     }
   },
   {
-    "date": "2022-03-29",
+    "date": "2022-04-15",
     "special_day": false,
     "vegan": {
-      "pt": "Guisado de Grão c/ Arroz Branco",
-      "en": "Chickpea Stew w/ White Rice"
+      "pt": "Lasanha de Legumes",
+      "en": "Vegetable Lasagna"
     },
     "fish": {
-      "pt": "Panado de Pescada c/ Batata Frita e Molho Aioli",
-      "en": "Breaded Hake w/ French Fries and Aioli Sauce"
+      "pt": "Salada de Peixe c/ Feijão Verde, Tomate, Batata e Ovo",
+      "en": "Fish Salad with Green Beans, Tomato, Potato and Egg"
     },
     "meat": {
-      "pt": "Porco Sweet & Sour",
-      "en": "Sweet & Sour Pork"
-    }
-  },
-  {
-    "date": "2022-03-30",
-    "special_day": false,
-    "vegan": {
-      "pt": "Salada Grega c/ Tzatziki",
-      "en": "Greek Salad w/ Tzatziki"
-    },
-    "fish": {
-      "pt": "Empadão de Peixe c/ Espinafres",
-      "en": "Fish and Potato Pie w/ Spinach"
-    },
-    "meat": {
-      "pt": "Croquetes de Vitela e Puré de Batata",
-      "en": "Veal Croquettes w/ Mashed Potatoes"
-    }
-  },
-  {
-    "date": "2022-03-31",
-    "special_day": false,
-    "vegan": {
-      "pt": "Gratinado de Courgette",
-      "en": "Courgette Gratin"
-    },
-    "fish": {
-      "pt": "Atum c/ Feijão Frade",
-      "en": "Tuna w/ Black-eyed Beans"
-    },
-    "meat": {
-      "pt": "Strogonoff de Frango c/ Arroz Branco",
-      "en": "Chicken Stroganoff w/ White Rice"
-    }
-  },
-  {
-    "date": "2022-04-01",
-    "special_day": false,
-    "vegan": {
-      "pt": "Ratatouille c/ Batata Assada e Pistou",
-      "en": "Ratatouille w/ Roasted Potatoes and Pistou Sauce"
-    },
-    "fish": {
-      "pt": "Linguine c/ Molho de Delícias do Mar",
-      "en": "Linguine w/ Sea Delights Sauce"
-    },
-    "meat": {
-      "pt": "Massa Arrabiata",
-      "en": "Spicy Arrabiata Pasta"
+      "pt": "Massa Penne c/ Molho de Salsicha Rústica e Mozzarella",
+      "en": "Penne Pasta with Rustic Sausage and Mozzarella Sauce"
     }
   }
 ]
