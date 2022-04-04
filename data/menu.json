@@ -158,5 +158,165 @@
       "pt": "Massa Penne c/ Molho de Salsicha Rústica e Mozzarella",
       "en": "Penne Pasta with Rustic Sausage and Mozzarella Sauce"
     }
+  },
+  {
+    "date": "2022-04-18",
+    "special_day": false,
+    "vegan": {
+      "pt": "Hambúrguer de Vegetais c/ Coleslaw",
+      "en": "Veggie Burger w/ Coleslaw"
+    },
+    "fish": {
+      "pt": "Lombo de Pescada em Molho de Vinho Branco c/ Espinafres",
+      "en": "Hake Loin in White Wine Sauce w/ Spinach"
+    },
+    "meat": {
+      "pt": "Bife de Perú c/ Puré de Batata e Grelos Salteados",
+      "en": "Turkey Steak w/ Mashed Potatoes and Sauteed Greens"
+    }
+  },
+  {
+    "date": "2022-04-19",
+    "special_day": false,
+    "vegan": {
+      "pt": "Arroz Frito c/ Legumes e Tofu",
+      "en": "Fried Rice w/ Vegetables and Tofu"
+    },
+    "fish": {
+      "pt": "Hambúrguer de Peixe c/ Molho Tártaro",
+      "en": "Fish Burger w/ Tartar Sauce"
+    },
+    "meat": {
+      "pt": "Costeleta de Porco Grelhada c/ Batatas Fritas",
+      "en": "Grilled Pork Chop w/ French Fries"
+    }
+  },
+  {
+    "date": "2022-04-20",
+    "special_day": false,
+    "vegan": {
+      "pt": "Quiche de Espinafres e Cogumelos",
+      "en": "Spinach and Mushroom Quiche"
+    },
+    "fish": {
+      "pt": "Pescada à Zé do Pipo",
+      "en": "'Zé do Pipo'-style Hake"
+    },
+    "meat": {
+      "pt": "Tiras de Frango Panado c/ Ervas e Raspa de Limão",
+      "en": "Breaded Chicken Strips w/ Herbs and Lemon Zest"
+    }
+  },
+  {
+    "date": "2022-04-21",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Tricolor c/ Molho de Manjericão e Queijo Parmesão",
+      "en": "Tricolor Pasta w/ Basil Sauce and Parmesan Cheese"
+    },
+    "fish": {
+      "pt": "Pataniscas c/ Arroz de Feijão",
+      "en": "Cod Fritters w/ Bean Rice"
+    },
+    "meat": {
+      "pt": "Tortellini de Carne c/ Molho de Queijo",
+      "en": "Meat Tortellini w/ Cheese Sauce"
+    }
+  },
+  {
+    "date": "2022-04-22",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tortilha Mexicana",
+      "en": "Mexican Tortilla"
+    },
+    "fish": {
+      "pt": "Calamares à Romana c/ Maionese de Alho",
+      "en": "Roman-style Calamares w/ Garlic Mayonnaise"
+    },
+    "meat": {
+      "pt": "Lasanha de Carne",
+      "en": "Meat Lasagna"
+    }
+  },
+  {
+    "date": "2022-04-25",
+    "special_day": false,
+    "vegan": {
+      "pt": "Linguine c/ Pesto Vermelho e Tomate",
+      "en": "Linguine w/ Red Pesto and Tomato"
+    },
+    "fish": {
+      "pt": "Caril de Pota",
+      "en": "Squid Curry"
+    },
+    "meat": {
+      "pt": "Almôndegas em Molho de Tomate c/ Puré de Batata",
+      "en": "Meatballs in Tomato Sauce w/ Mashed Potato"
+    }
+  },
+  {
+    "date": "2022-04-26",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Penne c/ Cogumelos",
+      "en": "Penne Pasta w/ Mushrooms"
+    },
+    "fish": {
+      "pt": "Caprichos de Paloco c/ Batatas Fritas e Maionese",
+      "en": "Codfish Caprices w/ French Fries and Mayonnaise"
+    },
+    "meat": {
+      "pt": "Frango c/ Molho Satay de Amendoim e Arroz Branco",
+      "en": "Chicken w/ Peanut Satay Sauce and White Rice"
+    }
+  },
+  {
+    "date": "2022-04-27",
+    "special_day": { "icon": "🇳🇱", "label": "Dia da Holanda" },
+    "vegan": {
+      "pt": "Gratinado de Courgette c/ Arroz",
+      "en": "Courgette Gratin w/ Rice"
+    },
+    "fish": {
+      "pt": "Pasteis de Bacalhau c/ Arroz de Ervilhas",
+      "en": "Cod Pies w/ Pea Rice"
+    },
+    "meat": {
+      "pt": "•••",
+      "en": "•••"
+    }
+  },
+  {
+    "date": "2022-04-28",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Penne c/ Espinafres e Queijo Feta",
+      "en": "Penne Pasta w/ Spinach and Feta Cheese"
+    },
+    "fish": {
+      "pt": "Massa Fusilli com/ Molho Cremoso de Atum",
+      "en": "Fusilli Pasta w/ Creamy Tuna Sauce"
+    },
+    "meat": {
+      "pt": "Tagliatelle Carbonara",
+      "en": "Carbonara Tagliatelle"
+    }
+  },
+  {
+    "date": "2022-04-29",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batatas Assadas e Pistou",
+      "en": "Ratatouille w/ Roasted Potatoes and Pistou Sauce"
+    },
+    "fish": {
+      "pt": "Massada de Tamboril",
+      "en": "Monkfish Pasta"
+    },
+    "meat": {
+      "pt": "Panado de Porco c/ Maionese de Alho",
+      "en": "Breaded Pork w/ Garlic Mayonnaise"
+    }
   }
 ]
