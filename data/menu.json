@@ -120,7 +120,7 @@
     },
     "fish": {
       "pt": "Caril de Pota c/ Arroz Branco",
-      "en": "Squid Curry w/ White Rice"
+      "en": "Octopus Curry w/ White Rice"
     },
     "meat": {
       "pt": "Empadão de Carne c/ Cenoura e Pimentos",
@@ -237,6 +237,86 @@
     "meat": {
       "pt": "Tortellini de Carne c/ Molho de Tomate e Azeite de Manjericão",
       "en": "Beef Tortellini w/ Tomato Sauce and Basil Oil"
+    }
+  },
+  {
+    "date": "2022-05-23",
+    "special_day": false,
+    "vegan": {
+      "pt": "Crepes de Espinafres",
+      "en": "Spinach Crepes"
+    },
+    "fish": {
+      "pt": "Feijoada de Pota",
+      "en": "Octopus w/ Beans"
+    },
+    "meat": {
+      "pt": "Tiras de Frango c/ Molho Satay de Amendoim",
+      "en": "Chicken Strips w/ Peanut Satay Sauce"
+    }
+  },
+  {
+    "date": "2022-05-24",
+    "special_day": false,
+    "vegan": {
+      "pt": "Guisado de Grão c/ Caril",
+      "en": "Chickpea Stew with/Curry"
+    },
+    "fish": {
+      "pt": "Hambúrguer de Peixe c/ Molho Tártaro",
+      "en": "Fish Burger w/ Tartar Sauce"
+    },
+    "meat": {
+      "pt": "Lasanha de Carne",
+      "en": "Meat Lasagna"
+    }
+  },
+  {
+    "date": "2022-05-25",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batatas Assadas e Pistou",
+      "en": "Ratatouille w/ Roasted Potatoes and Pistou Sauce"
+    },
+    "fish": {
+      "pt": "Pescada à Zé do Pipo",
+      "en": "'Zé do Pipo'-style Hake"
+    },
+    "meat": {
+      "pt": "Porco Agridoce c/ Arroz Branco",
+      "en": "Sweet & Sour Pork w/ White Rice"
+    }
+  },
+  {
+    "date": "2022-05-26",
+    "special_day": false,
+    "vegan": {
+      "pt": "Arroz Frito c/ Cogumelos e Ovo",
+      "en": "Fried Rice w/ Mushrooms and Egg"
+    },
+    "fish": {
+      "pt": "Calamares c/ Salada de Batata e Coleslaw",
+      "en": "Squid Rings w/ Potato Salad and Coleslaw"
+    },
+    "meat": {
+      "pt": "Almôndegas Italianas c/ Puré de Batata",
+      "en": "Italian Meatballs w/ Mashed Potato"
+    }
+  },
+  {
+    "date": "2022-05-27",
+    "special_day": false,
+    "vegan": {
+      "pt": "Hambúrguer de Vegetais c/ Salada de Cenoura e Laranja",
+      "en": "Vegetable Burger w/ Carrot and Orange Salad"
+    },
+    "fish": {
+      "pt": "Salada de Pescada c/ Batatas, Azeitonas e Tomate",
+      "en": "Hake Salad w/ Potatoes, Olives and Tomato"
+    },
+    "meat": {
+      "pt": "Peito de Perú no Forno c/ Molho de Laranja",
+      "en": "Oven-baked Turkey Breast w/ Orange Sauce"
     }
   }
 ]
