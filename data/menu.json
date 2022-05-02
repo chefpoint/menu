@@ -14,5 +14,69 @@
       "pt": "Costeleta de Porco c/ Batata Frita e Coleslaw",
       "en": "Pork Chop w/ French Fries and Coleslaw"
     }
+  },
+  {
+    "date": "2022-05-03",
+    "special_day": false,
+    "vegan": {
+      "pt": "Quiche de Espinafres c/ Coleslaw",
+      "en": "Spinach Quiche w/ Coleslaw"
+    },
+    "fish": {
+      "pt": "Lombo de Pescada c/ Molho de Vinho Branco e Espinafres Frescos",
+      "en": "Hake Loin w/ White Wine Sauce and Fresh Spinach"
+    },
+    "meat": {
+      "pt": "Bifinhos de Frango c/ Molho de Ervas Aromáticas",
+      "en": "Chicken Steaks w/ Herb Sauce"
+    }
+  },
+  {
+    "date": "2022-05-04",
+    "special_day": false,
+    "vegan": {
+      "pt": "Hamburguer Vegetariano c/ Arroz de Cenoura",
+      "en": "Vegetarian Burger w/ Carrot Rice"
+    },
+    "fish": {
+      "pt": "Spaghetti Frutti Di Mare",
+      "en": "Spaghetti Frutti Di Mare"
+    },
+    "meat": {
+      "pt": "Arroz à Valenciana",
+      "en": "'Valenciana'-style Rice"
+    }
+  },
+  {
+    "date": "2022-05-05",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles c/ Legumes Assados e Leite de Côco",
+      "en": "Noodles w/ Roasted Vegetables and Coconut Milk"
+    },
+    "fish": {
+      "pt": "Lasanha de Atum",
+      "en": "Tuna Lasagna"
+    },
+    "meat": {
+      "pt": "Vitela Picada c/ Sabores Mexicanos",
+      "en": "Minced Veal w/ Mexican Flavors"
+    }
+  },
+  {
+    "date": "2022-05-06",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Napolitana c/ Tofu",
+      "en": "Neapolitan Pasta w/ Tofu"
+    },
+    "fish": {
+      "pt": "Panado de Pescada c/ Salada de Batata",
+      "en": "Breaded Hake w/ Potato Salad"
+    },
+    "meat": {
+      "pt": "Panado de Frango c/ Puré de Batata",
+      "en": "Breaded Chicken w/ Mashed Potato"
+    }
   }
 ]
