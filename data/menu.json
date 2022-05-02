@@ -158,5 +158,85 @@
       "pt": "Hamburguer c/ Cebola Picklada",
       "en": "Burger w/ Pickled Onion"
     }
+  },
+  {
+    "date": "2022-05-16",
+    "special_day": false,
+    "vegan": {
+      "pt": "Hambúrguer de Vegetais c/ Arroz de Cenoura",
+      "en": "Vegetable Burger w/ Carrot Rice"
+    },
+    "fish": {
+      "pt": "Pescada c/ Molho de Vinho Branco e Espinafres Frescos",
+      "en": "Hake w/ White Wine Sauce and Fresh Spinach"
+    },
+    "meat": {
+      "pt": "Frango Agridoce c/ Arroz Branco",
+      "en": "Sweet & Sour Chicken w/ White Rice"
+    }
+  },
+  {
+    "date": "2022-05-17",
+    "special_day": { "icon": "🇳🇴", "label": "Dia da Noruega" },
+    "vegan": {
+      "pt": "Tabbouleh c/ Hummus",
+      "en": "Tabbouleh w/ Hummus"
+    },
+    "fish": {
+      "pt": "Hamburguer de Peixe c/ Molho Tártaro",
+      "en": "Fish Burger w/ Tartar Sauce"
+    },
+    "meat": {
+      "pt": "Dia da Noruega",
+      "en": "Norges Dag"
+    }
+  },
+  {
+    "date": "2022-05-18",
+    "special_day": false,
+    "vegan": {
+      "pt": "Lasanha de Legumes",
+      "en": "Vegetable Lasagna"
+    },
+    "fish": {
+      "pt": "Salada Italiana de Atum",
+      "en": "Italian Tuna Salad"
+    },
+    "meat": {
+      "pt": "Massa Penne Rústica",
+      "en": "Rustic Penne Pasta"
+    }
+  },
+  {
+    "date": "2022-05-19",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tortilla Mexicana",
+      "en": "Mexican Tortilla"
+    },
+    "fish": {
+      "pt": "Pastéis de Bacalhau c/ Arroz de Tomate",
+      "en": "Cod Pies w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Panado de Frango c/ Coleslow e Batatas Fritas",
+      "en": "Breaded Chicken w/ Coleslow and French Fries"
+    }
+  },
+  {
+    "date": "2022-05-20",
+    "special_day": false,
+    "vegan": {
+      "pt": "Crepes Primavera c/ Couscous e Mix de Legumes",
+      "en": "Spring Crepes w/ Couscous and Vegetable Mix"
+    },
+    "fish": {
+      "pt": "Rissóis de Camarão c/ Arroz Árabe",
+      "en": "Shrimp Patties w/ Arabic rice"
+    },
+    "meat": {
+      "pt": "Tortellini de Carne c/ Molho de Tomate e Azeite de Manjericão",
+      "en": "Beef Tortellini w/ Tomato Sauce and Basil Oil"
+    }
   }
 ]
