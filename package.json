@@ -1,6 +1,6 @@
 {
   "name": "@chefpoint/menu",
-  "version": "2022.3.29",
+  "version": "2022.3.30",
   "private": true,
   "scripts": {
     "dev": "next dev",
