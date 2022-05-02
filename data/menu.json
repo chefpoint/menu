@@ -78,5 +78,85 @@
       "pt": "Panado de Frango c/ Puré de Batata",
       "en": "Breaded Chicken w/ Mashed Potato"
     }
+  },
+  {
+    "date": "2022-05-09",
+    "special_day": false,
+    "vegan": {
+      "pt": "Almôndegas de Vegetais c/ Couscous de Laranja",
+      "en": "Vegetable Meatballs w/ Orange Couscous"
+    },
+    "fish": {
+      "pt": "Filetes de Pescada à Portuguesa c/ Arroz de Tomate",
+      "en": "Portuguese-style Hake Fillets w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Lombo de Porco Assado c/ Batatas e Grelos Salteados",
+      "en": "Roasted Pork Loin w/ Sauteed Potatoes and Greens"
+    }
+  },
+  {
+    "date": "2022-05-10",
+    "special_day": false,
+    "vegan": {
+      "pt": "Salada Grega c/ Tzatziki",
+      "en": "Greek Salad w/ Tzatziki"
+    },
+    "fish": {
+      "pt": "Tintureira no Forno à Portuguesa",
+      "en": "Portuguese-style Blue Shark"
+    },
+    "meat": {
+      "pt": "Coxas de Frango Panadas c/ Salada de Batata",
+      "en": "Breaded Chicken Thighs w/ Potato Salad"
+    }
+  },
+  {
+    "date": "2022-05-11",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles c/ Legumes Grelhados e Molho Sweet & Sour",
+      "en": "Noodles w/ Grilled Vegetables and Sweet & Sour Sauce"
+    },
+    "fish": {
+      "pt": "Caril de Pota c/ Arroz Branco",
+      "en": "Squid Curry w/ White Rice"
+    },
+    "meat": {
+      "pt": "Empadão de Carne c/ Cenoura e Pimentos",
+      "en": "Meat Pie w/ Carrots and Peppers"
+    }
+  },
+  {
+    "date": "2022-05-12",
+    "special_day": false,
+    "vegan": {
+      "pt": "Crepes c/ Recheio de Cogumelos",
+      "en": "Crepes w/ Mushroom Stuffing"
+    },
+    "fish": {
+      "pt": "Massa Fusilli c/ Molho Cremoso de Atum",
+      "en": "Fusilli Pasta w/ Creamy Tuna Sauce"
+    },
+    "meat": {
+      "pt": "Arroz de Frango c/ Chouriço e Bacon",
+      "en": "Chicken Rice w/ Portuguese Chouriço and Bacon"
+    }
+  },
+  {
+    "date": "2022-05-13",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Pesto c/ Manjericão e Tofu",
+      "en": "Pesto Pasta w/ Basil and Tofu"
+    },
+    "fish": {
+      "pt": "Salada de Peixe c/ Feijão Verde, Tomate e Batata",
+      "en": "Fish Salad w/ Green Beans, Tomatoes and Potatoes"
+    },
+    "meat": {
+      "pt": "Hamburguer c/ Cebola Picklada",
+      "en": "Burger w/ Pickled Onion"
+    }
   }
 ]
