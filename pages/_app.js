@@ -22,23 +22,23 @@ export default function Menu({ Component, pageProps }) {
 
   return (
     <ClerkProvider {...pageProps}>
-      <SWRConfig value={{ fetcher: fetch, refreshInterval: 10000 }}>
-        <MantineProvider>
-          <Refresh />
-          <BrowserConfig />
-          {isPublicPage ? (
-            <Component {...pageProps} />
-          ) : (
-            <>
-              <SignedIn>
-                <Component {...pageProps} />
-              </SignedIn>
-              <SignedOut>
-                <RedirectToSignIn />
-              </SignedOut>
-            </>
-          )}
-        </MantineProvider>
+      <SWRConfig value={{ fetcher: fetch /*refreshInterval: 10000*/ }}>
+        {/* <MantineProvider> */}
+        <Refresh />
+        <BrowserConfig />
+        {isPublicPage ? (
+          <Component {...pageProps} />
+        ) : (
+          <>
+            <SignedIn>
+              <Component {...pageProps} />
+            </SignedIn>
+            <SignedOut>
+              <RedirectToSignIn />
+            </SignedOut>
+          </>
+        )}
+        {/* </MantineProvider> */}
       </SWRConfig>
     </ClerkProvider>
   );

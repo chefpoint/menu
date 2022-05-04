@@ -1,0 +1,113 @@
+.container {
+  background-color: var(--gray-0);
+  border: 2px solid var(--gray-7);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+}
+
+/* .container.special {
+  border-color: var(--theme-border);
+} */
+
+.header,
+.dishes {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--gray-7);
+}
+
+.header * {
+  line-height: 1;
+}
+
+.date {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.date .weekday {
+  color: var(--gray-7);
+  font-size: 15px;
+  font-weight: var(--font-medium);
+  text-transform: uppercase;
+}
+
+.date .monthday {
+  color: var(--gray-7);
+  font-size: 25px;
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+}
+
+.today .weekday,
+.today .monthday {
+  color: var(--theme-fill);
+}
+
+.specialDayIcon {
+  font-size: 60px;
+  padding-right: 10px;
+}
+
+.specialDayLabel {
+  margin-top: 3px;
+  display: flex;
+}
+
+.specialDayLabel div {
+  font-size: 15px;
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+  background-color: var(--theme-fill);
+  border: 2px solid var(--theme-border);
+  color: var(--gray-0);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.dishes {
+  padding-bottom: 30px;
+}
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 900px /* var(--mobile) */) {
+  .dishes {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* TV STYLES */
+@media only screen and (min-width: 1920px /* var(--tv) */) {
+  .header,
+  .dishes {
+    padding: 30px;
+  }
+  .date {
+    gap: 12px;
+  }
+  .date .weekday {
+    font-size: 40px;
+  }
+  .date .monthday {
+    font-size: 55px;
+  }
+  .specialDayIcon {
+    display: none;
+  }
+  .specialDayLabel div {
+    font-size: 40px;
+    padding: 10px 20px;
+  }
+  .dishes {
+    gap: 50px;
+    padding-bottom: 40px;
+  }
+}
