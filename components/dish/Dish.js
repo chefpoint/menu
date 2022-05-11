@@ -35,8 +35,8 @@ export default function Dish({ type, name }) {
       >
         {label}
       </h2>
-      <p className={styles.pt}>{name.pt}</p>
-      <p className={styles.en}>{name.en}</p>
+      <p className={styles.pt}>{name ? name.title_pt : ''}</p>
+      <p className={styles.en}>{name ? name.title_en : ''}</p>
     </div>
   );
 }

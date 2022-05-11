@@ -1,21 +1,13 @@
+import useSWR from 'swr';
 import Image from 'next/image';
 import Day from '../components/day/Day';
 import IconButton from '../components/iconButton/IconButton';
-import menu from '../data/menu.json';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
   //
 
-  const filterMenu = menu.filter((item) => {
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-
-    const itemDate = new Date(item.date);
-    itemDate.setHours(0, 0, 0, 0);
-
-    return today.getTime() <= itemDate.getTime();
-  });
+  const { data: menu } = useSWR('/api/*');
 
   return (
     <div className={styles.container}>
@@ -30,11 +22,7 @@ export default function Home() {
           <IconButton icon={'envelopefill'} label={'Contact Us'} href={'mailto:support@chefpoint.pt'} />
         </div>
       </div>
-      <div className={styles.list}>
-        {filterMenu.map((item, index) => (
-          <Day key={index} content={item}></Day>
-        ))}
-      </div>
+      <div className={styles.list}>{menu ? menu.map((item, index) => <Day key={index} content={item}></Day>) : null}</div>
     </div>
   );
 }

@@ -9,7 +9,7 @@ import '../styles/variables.css';
 
 export default function LunchMenu({ Component, pageProps }) {
   return (
-    <SWRConfig value={{ fetcher: fetch, refreshInterval: 10000 }}>
+    <SWRConfig value={{ fetcher: fetch, refreshInterval: 1000 }}>
       <Refresh />
       <BrowserConfig />
       <Component {...pageProps} />
