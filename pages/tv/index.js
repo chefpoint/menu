@@ -1,4 +1,4 @@
-import menu from '../../data/menu.json';
+import useSWR from 'swr';
 import Day from '../../components/day/Day';
 import Image from 'next/image';
 import styles from '../../styles/Tv.module.css';
@@ -6,15 +6,7 @@ import styles from '../../styles/Tv.module.css';
 export default function Home() {
   //
 
-  const filterMenu = menu.filter((item) => {
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-
-    const itemDate = new Date(item.date);
-    itemDate.setHours(0, 0, 0, 0);
-
-    return today.getTime() === itemDate.getTime();
-  });
+  const { data: menu } = useSWR('/api/*');
 
   return (
     <div className={styles.container}>
@@ -24,11 +16,7 @@ export default function Home() {
           Full month available at <span>menu.chefpoint.pt</span>
         </p>
       </div>
-      <div className={styles.list}>
-        {filterMenu.map((item, index) => (
-          <Day key={index} content={item}></Day>
-        ))}
-      </div>
+      <div className={styles.list}>{menu ? menu.map((item, index) => <Day key={index} content={item}></Day>) : null}</div>
     </div>
   );
 }
