@@ -2,7 +2,7 @@ import useSWR from 'swr';
 import Image from 'next/image';
 import Day from '../components/day/Day';
 import IconButton from '../components/iconButton/IconButton';
-import Loading from '../components/loading/Loading';
+import Info from '../components/info/Info';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -23,7 +23,17 @@ export default function Home() {
           <IconButton icon={'envelopefill'} label={'Contact Us'} href={'mailto:support@chefpoint.pt'} />
         </div>
       </div>
-      <div className={styles.list}>{menu ? menu.map((item, index) => <Day key={index} content={item}></Day>) : <Loading />}</div>
+      <div className={styles.list}>
+        {menu ? (
+          menu.length ? (
+            menu.map((item, index) => <Day key={index} content={item}></Day>)
+          ) : (
+            <Info text='Nothing found' />
+          )
+        ) : (
+          <Info text='Loading...' />
+        )}
+      </div>
     </div>
   );
 }
