@@ -35,8 +35,7 @@ async function getAllDays() {
     const itemDate = new Date(item.date);
     itemDate.setHours(0, 0, 0, 0);
     const isBetweenDates = today.getTime() <= itemDate.getTime();
-    const hasContent = item.vegan.apicbase_id && item.fish.apicbase_id && item.meat.apicbase_id;
-    return isBetweenDates && hasContent;
+    return isBetweenDates && item.is_public;
   });
 
   const sortedDays = filteredDays.sort((a, b) => new Date(a.date) - new Date(b.date));

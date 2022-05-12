@@ -18,6 +18,9 @@ module.exports =
         maxlength: 50,
         unique: true,
       },
+      is_public: {
+        type: Boolean,
+      },
       special_day: {
         icon: {
           type: String,
@@ -28,46 +31,36 @@ module.exports =
           maxlength: 500,
         },
       },
-      vegan: {
-        apicbase_id: {
-          type: String,
-          maxlength: 500,
+      dishes: {
+        vegan: {
+          title_pt: {
+            type: String,
+            maxlength: 500,
+          },
+          title_en: {
+            type: String,
+            maxlength: 500,
+          },
         },
-        title_pt: {
-          type: String,
-          maxlength: 500,
+        fish: {
+          title_pt: {
+            type: String,
+            maxlength: 500,
+          },
+          title_en: {
+            type: String,
+            maxlength: 500,
+          },
         },
-        title_en: {
-          type: String,
-          maxlength: 500,
-        },
-      },
-      fish: {
-        apicbase_id: {
-          type: String,
-          maxlength: 500,
-        },
-        title_pt: {
-          type: String,
-          maxlength: 500,
-        },
-        title_en: {
-          type: String,
-          maxlength: 500,
-        },
-      },
-      meat: {
-        apicbase_id: {
-          type: String,
-          maxlength: 500,
-        },
-        title_pt: {
-          type: String,
-          maxlength: 500,
-        },
-        title_en: {
-          type: String,
-          maxlength: 500,
+        meat: {
+          title_pt: {
+            type: String,
+            maxlength: 500,
+          },
+          title_en: {
+            type: String,
+            maxlength: 500,
+          },
         },
       },
     })

@@ -42,9 +42,9 @@ export default function Day({ content }) {
         {content.special_day ? <div className={styles.specialDayIcon}>{content.special_day.icon}</div> : null}
       </div>
       <div className={styles.dishes}>
-        <Dish type={'vegan'} name={content.vegan} />
-        <Dish type={'fish'} name={content.fish} />
-        <Dish type={'meat'} name={content.meat} />
+        <Dish type={'vegan'} name={content.dishes.vegan} />
+        <Dish type={'fish'} name={content.dishes.fish} />
+        <Dish type={'meat'} name={content.dishes.meat} />
       </div>
     </div>
   );
