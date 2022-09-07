@@ -78,5 +78,85 @@
       "pt": "Frango em Molho de Tomate c/ Puré de Batata",
       "en": "Chicken in Tomato Sauce w/ Mashed Potato"
     }
+  },
+  {
+    "date": "2022-09-12",
+    "special_day": false,
+    "vegan": {
+      "pt": "Spring Rolls de Legumes",
+      "en": "Vegetable Spring Rolls"
+    },
+    "fish": {
+      "pt": "Panado de Pescada c/ Arroz de Tomate",
+      "en": "Breaded Hake w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Empadão de Carne c/ Cenoura e Pimentos",
+      "en": "Meat Pie w/ Carrots and Peppers"
+    }
+  },
+  {
+    "date": "2022-09-13",
+    "special_day": false,
+    "vegan": {
+      "pt": "Crepes c/ Recheio de Cogumelos",
+      "en": "Crepes w/ Mushroom Stuffing"
+    },
+    "fish": {
+      "pt": "Paloco c/ Natas",
+      "en": "Cod w/ Cream"
+    },
+    "meat": {
+      "pt": "Lombo de Perú no Forno c/ Batatas Fritas",
+      "en": "Turkey Loin in the Oven w/ French Fries"
+    }
+  },
+  {
+    "date": "2022-09-14",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles c/ Legumes Grelhados e Molho Sweet & Sour",
+      "en": "Noodles w/ Grilled Vegetables and Sweet & Sour Sauce"
+    },
+    "fish": {
+      "pt": "Filete de Pescada c/ Molho de Vinho Branco",
+      "en": "Hake Fillet w/ White Wine Sauce"
+    },
+    "meat": {
+      "pt": "Costeletas do Cachaço c/ Batatas Assadas",
+      "en": "Ribs w/ Roasted Potatoes"
+    }
+  },
+  {
+    "date": "2022-09-15",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Penne c/ Espinafres",
+      "en": "Penne Pasta w/ Spinach"
+    },
+    "fish": {
+      "pt": "Filete de Pescada à Portuguesa c/ Arroz de Tomate",
+      "en": "Portuguese-style Hake Fillet w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Frango à Grega",
+      "en": "Greek-style Chicken"
+    }
+  },
+  {
+    "date": "2022-09-16",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batata Assada e Molho Pistou",
+      "en": "Ratatouille w/ Roasted Potatoes and Pistou Sauce"
+    },
+    "fish": {
+      "pt": "Tintureira à Minhota",
+      "en": "Minhota-style Blue Shark"
+    },
+    "meat": {
+      "pt": "Panado de Porco c/ Salada de Batata",
+      "en": "Breaded Pork w/ Potato Salad"
+    }
   }
 ]
