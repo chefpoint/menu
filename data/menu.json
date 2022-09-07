@@ -24,7 +24,7 @@
     },
     "fish": {
       "pt": "Pescada c/ Sabores Marroquinos",
-      "en": "Hake with Moroccan Flavors"
+      "en": "Hake w/ Moroccan Flavors"
     },
     "meat": {
       "pt": "Esparguete à Bolonhesa",
@@ -164,7 +164,7 @@
     "special_day": false,
     "vegan": {
       "pt": "Linguine c/ Pesto e Mozzarella ou Tofu",
-      "en": "Linguine with/ Pesto and Mozzarella or Tofu"
+      "en": "Linguine w/ Pesto and Mozzarella or Tofu"
     },
     "fish": {
       "pt": "Pota Frita c/ Salada de Batata",
@@ -237,6 +237,86 @@
     "meat": {
       "pt": "Tortellini de Carne c/ Molho de Queijo",
       "en": "Meat Tortellini w/ Cheese Sauce"
+    }
+  },
+  {
+    "date": "2022-09-26",
+    "special_day": false,
+    "vegan": {
+      "pt": "Caril de Vegetais c/ Arroz Branco",
+      "en": "Vegetable Curry w/ White Rice"
+    },
+    "fish": {
+      "pt": "Lasanha de Peixe e Espinafres",
+      "en": "Fish and Spinach Lasagna"
+    },
+    "meat": {
+      "pt": "Lombo de Porco Assado c/ Arroz",
+      "en": "Roasted Pork Loin w/ Rice"
+    }
+  },
+  {
+    "date": "2022-09-27",
+    "special_day": false,
+    "vegan": {
+      "pt": "Guisado de Grão",
+      "en": "Grain Stew"
+    },
+    "fish": {
+      "pt": "Fricassé de Pescada",
+      "en": "Hake Fricassee"
+    },
+    "meat": {
+      "pt": "Frango c/ Molho de Mostarda",
+      "en": "Chicken w/ Mustard Sauce"
+    }
+  },
+  {
+    "date": "2022-09-28",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles de Legumes Grelhados c/ Molho Sweet & Sour",
+      "en": "Grilled Vegetable Noodles w/ Sweet & Sour Sauce"
+    },
+    "fish": {
+      "pt": "Paloco à Gomes de Sá",
+      "en": "Gomes de Sá-style Cod"
+    },
+    "meat": {
+      "pt": "Massa Carbonara",
+      "en": "Carbonara Pasta"
+    }
+  },
+  {
+    "date": "2022-09-29",
+    "special_day": false,
+    "vegan": {
+      "pt": "Arroz Frito c/ Mix de Cogumelos e Legumes",
+      "en": "Fried Rice w/ Mix of Mushrooms and Vegetables"
+    },
+    "fish": {
+      "pt": "Massa Fusilli c/ Molho Cremoso de Atum",
+      "en": "Fusilli Pasta w/ Creamy Tuna Sauce"
+    },
+    "meat": {
+      "pt": "Perna de Frango Assada c/ Batatas Fritas",
+      "en": "Roasted Chicken Leg w/ French Fries"
+    }
+  },
+  {
+    "date": "2022-09-30",
+    "special_day": false,
+    "vegan": {
+      "pt": "Ratatouille c/ Batata Assada e Molho Pistou",
+      "en": "Ratatouille w/ Roasted Potatoes and Pesto Sauce"
+    },
+    "fish": {
+      "pt": "Pastéis de Bacalhau c/ Arroz de Ervilhas",
+      "en": "Cod Pies w/ Pea Rice"
+    },
+    "meat": {
+      "pt": "Rolo de Carne c/ Farinheira",
+      "en": "Meat Roll w/ Farinheira"
     }
   }
 ]
