@@ -158,5 +158,85 @@
       "pt": "Panado de Porco c/ Salada de Batata",
       "en": "Breaded Pork w/ Potato Salad"
     }
+  },
+  {
+    "date": "2022-09-19",
+    "special_day": false,
+    "vegan": {
+      "pt": "Linguine c/ Pesto e Mozzarella ou Tofu",
+      "en": "Linguine with/ Pesto and Mozzarella or Tofu"
+    },
+    "fish": {
+      "pt": "Pota Frita c/ Salada de Batata",
+      "en": "Fried Squid w/ Potato Salad"
+    },
+    "meat": {
+      "pt": "Panadinhos de Frango c/ Cervas Aromáticas e Limão",
+      "en": "Chicken Bread w/ Aromatic Spices and Lemon"
+    }
+  },
+  {
+    "date": "2022-09-20",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tabbouleh c/ Hummus",
+      "en": "Tabbouleh w/ Hummus"
+    },
+    "fish": {
+      "pt": "Hamburguer de Peixe c/ Molho Tártaro",
+      "en": "Fish Burger w/ Tartar Sauce"
+    },
+    "meat": {
+      "pt": "Lasanha de Carne",
+      "en": "Meat Lasagna"
+    }
+  },
+  {
+    "date": "2022-09-21",
+    "special_day": false,
+    "vegan": {
+      "pt": "Noodles c/ Legumes Assados e Leite de Côco",
+      "en": "Noodles w/ Roasted Vegetables and Coconut Milk"
+    },
+    "fish": {
+      "pt": "Calamares à Romana c/ Maionese de Alho",
+      "en": "Roman-style Calamares w/ Garlic Mayonnaise"
+    },
+    "meat": {
+      "pt": "Mix de Carne c/ Batatas e Vegetais no Forno",
+      "en": "Meat Mix w/ Potatoes and Vegetables in the Oven"
+    }
+  },
+  {
+    "date": "2022-09-22",
+    "special_day": false,
+    "vegan": {
+      "pt": "Massa Tricolor c/ Molho Napolitano",
+      "en": "Tricolor Pasta w/ Neapolitan Sauce"
+    },
+    "fish": {
+      "pt": "Pataniscas c/ Arroz de Feijão",
+      "en": "Cod Fritters w/ Bean rice"
+    },
+    "meat": {
+      "pt": "Caril de Frango",
+      "en": "Chicken Curry"
+    }
+  },
+  {
+    "date": "2022-09-23",
+    "special_day": false,
+    "vegan": {
+      "pt": "Tortilha Mexicana",
+      "en": "Mexican Tortilla"
+    },
+    "fish": {
+      "pt": "Solha Frita c/ Arroz de Tomate",
+      "en": "Fried Sole w/ Tomato Rice"
+    },
+    "meat": {
+      "pt": "Tortellini de Carne c/ Molho de Queijo",
+      "en": "Meat Tortellini w/ Cheese Sauce"
+    }
   }
 ]
